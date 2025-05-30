@@ -1,7 +1,7 @@
 # projecto-colaboratiivo
 
 #Equipo:
-# Alejandro
-# Karla
-# Jessica
-# Fer
+#Alejandro
+#Karla
+#Jessica
+#Fer
